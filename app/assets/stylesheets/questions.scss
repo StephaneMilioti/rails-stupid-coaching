@@ -1,0 +1,47 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+  text-align: center;
+}
+h1 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.question {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
+}
+
+.answer {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
+  background-color: #FFFEE1;
+}
+
+a {
+  text-decoration: none;
+  color: green;
+}
+
+.ask {
+  text-align: center;
+}
+.btn-twitter {
+  color: white;
+  border-radius: 3px;
+  padding: 10px 15px;
+  font-weight: bolder;
+  text-decoration: none;
+  background-color: #D4312D
+}
+
+.btn-twitter:hover {
+  text-decoration: none;
+  color: white;
+  background-color: red;
+}
+.input {
+  min-height: 45px;
+
+}
